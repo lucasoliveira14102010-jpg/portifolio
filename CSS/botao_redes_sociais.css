@@ -1,0 +1,35 @@
+.link_git {
+  width: 54px;
+  height: 54px;
+  margin-bottom: 0;
+  display: block;
+}
+
+.link_git:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.botao {
+  display: inline-block;
+  padding: 12px 20px;
+  background: #3f7db8;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 12px;
+  transition: background 0.3s ease, transform 0.3s ease;
+  margin-bottom: 4px;
+  font-size: 1.02rem;
+}
+
+.botao:hover {
+  background: #528fcb;
+  transform: translateY(-1px);
+}

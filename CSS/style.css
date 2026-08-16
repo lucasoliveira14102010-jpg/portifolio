@@ -1,0 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    font-family: 'Inter', Arial, sans-serif;
+    background-color: #0a1627;
+    color: #f1f5f9;
+    font-size: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+h1 {
+  color: #16324f;
+  font-size: 3.2rem;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.1rem;
+}

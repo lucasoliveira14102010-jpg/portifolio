@@ -1,0 +1,22 @@
+.secao {
+  max-width: 1100px;
+  margin: 0 auto 50px;
+  padding: 82px 52px;
+  background: #fdfefe;
+  border-radius: 26px;
+  box-shadow: 0 14px 34px rgba(7, 17, 31, 0.10);
+}
+
+.secao h2 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+  color: #173658;
+}
+
+.secao p {
+  margin: 0;
+  color: #4b5563;
+  font-size: 1.2rem;
+  line-height: 1.9;
+}
